@@ -53,7 +53,7 @@ WidgetsBinding.instance.addPostFrameCallback(
 );
 ```
 
-![no_title](https://github.com/rive-app/window_utils/blob/master/doc/macos.png?raw=true)
+![no_title](./doc/macos.png?raw=true)
 
 #### Show the default title bar
 
